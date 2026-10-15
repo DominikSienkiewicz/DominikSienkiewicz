@@ -1,25 +1,15 @@
-## What's here
+# Dominik Sienkiewicz
 
-Four public repositories. They are different kinds of artifact — here is what
-each one is, in the order that makes sense to read them.
+Senior Java Engineer in banking and insurance — Java integrations, asynchronous
+processing and solution design. My commercial work is not public; this profile holds
+personal projects.
 
-**[Platform](https://github.com/DominikSienkiewicz/Platform)** — a shared build
-platform, not an application. Versioned Gradle convention plugins, a version
-catalog, test fixtures and reusable CI workflows, published to GitHub Packages
-and consumed by other repositories instead of copied between them. MIT.
+- **[Platform](https://github.com/DominikSienkiewicz/Platform)** — shared Gradle build
+  platform: convention plugins, version catalog, test fixtures and reusable CI
+  workflows, versioned with tags.
+- **[PulseDigest](https://github.com/DominikSienkiewicz/PulseDigest)** — Java / Spring
+  Boot batch application (hexagonal architecture, Flyway, Testcontainers) that builds a
+  tech-news digest for my own use.
 
-**[PulseDigest](https://github.com/DominikSienkiewicz/PulseDigest)** — a Java
-and Spring Boot batch application. Hexagonal architecture, Flyway migrations,
-Testcontainers integration tests, Checkstyle and ArchUnit in the build gate,
-SonarCloud on every push.
-
-**[WegaMacUpdater](https://github.com/DominikSienkiewicz/WegaMacUpdater)** — a
-native macOS application in Swift 6 and SwiftUI. Updates applications from
-Homebrew casks, the Mac App Store, JetBrains, GitHub Releases and Sparkle, with
-a dry-run panel before anything runs and a rollback path.
-
-**[StockAgent](https://github.com/DominikSienkiewicz/StockAgent)** — a Python
-and LangGraph agent. Runs once per trading day over a fixed watchlist, combines
-price action with news sentiment, and scores its own closed predictions.
-
-More at [dominiksienkiewicz.com](https://dominiksienkiewicz.com).
+CV and contact: [dominiksienkiewicz.com](https://dominiksienkiewicz.com) ·
+[LinkedIn](https://www.linkedin.com/in/dominik-sienkiewicz/)
